@@ -1,0 +1,35 @@
+@use 'scss/base/base';
+
+// *** import utils
+@use 'scss/utils/utils';
+
+// *** import components
+@use 'scss/components/header';
+// import model.scss
+@use 'scss/components/model';
+// import nav
+@use 'scss/components/nav';
+// import Nav Toggle
+@use 'scss/components/toggle';
+// import Destinations stylesheet
+@use 'scss/components/destinations';
+// import DestinationInfo stylesheets
+@use 'scss/components/destinationInfo';
+// import Cities stylesheets
+@use 'scss/components/cities';
+// import Services stylesheets
+@use 'scss/components/services';
+// import Reviews stylesheets
+@use 'scss/components/reviews';
+// import Gallery stylesheets
+@use 'scss/components/gallery';
+// import Footer stylesheets
+@use 'scss/components/footer';
+// import Page Container stylesheets
+@use 'scss/components/pageContainer';
+
+// *** import Layout files
+@use 'scss/layout/layout';
+
+// *** import abstracts
+@use 'scss/abstracts/buttons';
